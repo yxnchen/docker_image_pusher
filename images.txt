@@ -6,4 +6,5 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.20
 haroldli/xiaoya-tvbox
-percona/pmm-server:2
+#percona/pmm-server:2
+ghcr.io/binary-husky/gpt_academic_nolocal:master
