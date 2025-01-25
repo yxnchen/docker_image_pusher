@@ -9,3 +9,4 @@ haroldli/xiaoya-tvbox
 #percona/pmm-server:2
 ghcr.io/binary-husky/gpt_academic_nolocal:master
 mysql:8.0
+ollama/ollama
