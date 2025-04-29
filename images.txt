@@ -10,4 +10,4 @@ haroldli/xiaoya-tvbox
 ghcr.io/binary-husky/gpt_academic_nolocal:master
 mysql:8.0
 ollama/ollama
-datagrip/oracle:11.2.0.2-xe
+gvenzl/oracle-xe:11.2.0.2-full
