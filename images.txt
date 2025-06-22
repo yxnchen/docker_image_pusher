@@ -5,9 +5,11 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 python:alpine3.20
-haroldli/xiaoya-tvbox
+#haroldli/xiaoya-tvbox
 #percona/pmm-server:2
-ghcr.io/binary-husky/gpt_academic_nolocal:master
+#ghcr.io/binary-husky/gpt_academic_nolocal:master
 mysql:8.0
-ollama/ollama
-gvenzl/oracle-xe:11.2.0.2-full
+#ollama/ollama
+#gvenzl/oracle-xe:11.2.0.2-full
+quay.io/jupyter/pytorch-notebook:cuda12-conda-25.5.1
+pytorch/pytorch:2.7.1-cuda12.6-cudnn9-devel
