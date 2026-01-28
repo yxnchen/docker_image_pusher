@@ -13,3 +13,5 @@ mysql:8.0
 #gvenzl/oracle-xe:11.2.0.2-full
 quay.io/jupyter/pytorch-notebook:cuda12-conda-25.5.1
 pytorch/pytorch:2.7.1-cuda12.6-cudnn9-devel
+apache/doris:be-4.0.2
+apache/doris:fe-4.0.2
